@@ -19,6 +19,37 @@ html {
     scroll-snap-type: y mandatory;
 }
 
+@media (max-height: 800px) {
+    .app_videos {
+        height: 550px;
+    }
+}
+
+
+@media (height: 720px) {
+    .app_videos {
+        height: 700px;
+    }
+}
+
+@media (height: 823px) {
+    .app_videos {
+        height: 760px;
+    }
+}
+
+@media (height: 812px) {
+    .app_videos {
+        height: 500px;
+    }
+}
+
+@media (height: 653px) {
+    .app_videos {
+        height: 450px;
+    }
+}
+
 .app_videos::-webkit-scrollbar {
     display: none;
 }

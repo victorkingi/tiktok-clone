@@ -6,6 +6,24 @@
     display: flex;
 }
 
+@media (max-height: 900px) {
+    .videoFooter {
+        bottom: 200px;
+    }
+}
+
+@media (max-height: 600px) {
+    .videoFooter {
+        bottom: 220px;
+    }
+}
+
+@media (max-height: 700px) {
+    .videoFooter {
+        bottom: 230px;
+    }
+}
+
 .videoFooter_text {
     flex: 1;
 }
