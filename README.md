@@ -1,3 +1,9 @@
+## TikTok React Web App
+
+This is a tiktok clone equivalent to the current
+TikTok mobile app the demo website is [here](https://tiktok-clone-5e534.web.app/).
+The videos and are gotten from firebase storage backend so NO API was used in this project. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
